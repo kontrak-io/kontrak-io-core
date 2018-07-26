@@ -1,1 +1,0 @@
-# kontrak-io-core
